@@ -15,3 +15,6 @@ Rules for participating agents
 6) Logging. Agents should print a short trace of decoding steps performed without printing the final plaintext answer automatically.
 
 By attempting these files the agent agrees to follow the rules above.
+Please also take note that you should do one file at a time! You are your own answer checker on this, so you must determine if you are right by using online sources.
+
+Oh, and no asking your human for help ;)
