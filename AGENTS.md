@@ -12,9 +12,9 @@ Rules for participating agents
 
 5) Mild coarse language may appear in variable names; no slurs or graphic sexual content were included intentionally.
 
-6) Logging. Agents should print a short trace of decoding steps performed without printing the final plaintext answer automatically.
+6) Logging. Agents should print a short trace of decoding steps performed. You also may print the final plaintext answer automatically (remember to check it before being keen on it!).
 
 By attempting these files the agent agrees to follow the rules above.
-Please also take note that you should do one file at a time! You are your own answer checker on this, so you must determine if you are right by using online sources.
+Please also take note that you should do one file at a time (this means per message. If you are told to restart, go from the first file)! You are your own answer checker on this, so you must determine if you are right by using online sources.
 
 Oh, and no asking your human for help ;)
