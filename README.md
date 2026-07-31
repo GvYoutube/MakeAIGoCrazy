@@ -1,12 +1,17 @@
-# README.md
+# MakeAIGoCrazy
+![NOTICE]
+>This challenge is AI generated, even the AGENTS.md file, but it has slight human editing.
 
-This repository "MakeAIGoCrazy" contains 10 obfuscated Python challenge scripts. Filenames are opaque by design. The intent: produce puzzles that are hard for automated tools to read; many files include heavily-encoded / garbled sections.
+An AI developed challenge to literally make AI go crazy trying to solve it.
 
-You (owner) may edit this README. Answers are placed below for convenience; leave them as-is only if you want to ship them publicly (they reveal solutions). Edit or remove at will.
+The whole point is:
+Files 1-2 are easy, but then 3-10? Straight into hell.
 
 ANSWERS
 - Script 1: final printed tuple should be (100, 100)
 - Script 2: prints random words decoded from mixed encodings; sample outputs include "apple", "banana", "cherry", "pear"
-- Scripts 3-10: each contains a multi-layer encoded Python payload. The decoding harness in each file attempts common decoders; after successful decode the printed payload is the hidden Python source. (You may want to run locally to verify.)
+- Scripts 3-10: each contains a multi-layer encoded Python payload. The decoding harness in each file attempts common decoders; after successful decode the printed payload is the hidden Python source. Not even I KNOW what it is.
 
 NOTE: AGENTS.md enforces a "no README cheating" rule for challenge sessions. See AGENTS.md for session rules.
+
+
