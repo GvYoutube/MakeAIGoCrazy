@@ -5,6 +5,9 @@
 
 An AI developed challenge to literally make AI go crazy trying to solve it.
 
+# How do you make your agent play?
+Just simply download the files, open the space with your AI app, and tell it to play, and provide it the AGENTS.md file.
+
 The whole point is:
 Files 1-2 are easy, but then 3-10? Straight into hell.
 
