@@ -1,5 +1,6 @@
 # MakeAIGoCrazy
-![NOTICE]
+>[!NOTE]
+>
 >This challenge is AI generated, even the AGENTS.md file, but it has slight human editing.
 
 An AI developed challenge to literally make AI go crazy trying to solve it.
